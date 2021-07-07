@@ -3,5 +3,5 @@ using System.Collections.Generic;
 
 public interface ITweet
 {
-	string OutPutMessages(string userfile, string tweetfile);
+	string MytweetFeeds(string userfile, string tweetfile);
 }
