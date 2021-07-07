@@ -19,7 +19,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Model", "Model", "{E0F5A137
 		Tweets.cs = Tweets.cs
 	EndProjectSection
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TweetSimtest", "..\TweetSimtest\TweetSimtest.csproj", "{BCC2ED87-11A4-4BFE-8A77-9B26622A734E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwitterTest", "..\Users\27787\source\repos\TwitterTest\TwitterTest.csproj", "{A1CAF493-FBE2-4B37-9E68-203E5C19DF72}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -31,10 +31,10 @@ Global
 		{FF634B04-0708-4AD6-83B8-60FCAF1703F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FF634B04-0708-4AD6-83B8-60FCAF1703F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FF634B04-0708-4AD6-83B8-60FCAF1703F4}.Release|Any CPU.Build.0 = Release|Any CPU
-		{BCC2ED87-11A4-4BFE-8A77-9B26622A734E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{BCC2ED87-11A4-4BFE-8A77-9B26622A734E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{BCC2ED87-11A4-4BFE-8A77-9B26622A734E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{BCC2ED87-11A4-4BFE-8A77-9B26622A734E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1CAF493-FBE2-4B37-9E68-203E5C19DF72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1CAF493-FBE2-4B37-9E68-203E5C19DF72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1CAF493-FBE2-4B37-9E68-203E5C19DF72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1CAF493-FBE2-4B37-9E68-203E5C19DF72}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -42,7 +42,6 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{FF634B04-0708-4AD6-83B8-60FCAF1703F4} = {9984F8F3-9127-4B5E-89F6-CE870981EE75}
 		{E0F5A137-42C1-455F-84FE-788F71B7FA8E} = {9984F8F3-9127-4B5E-89F6-CE870981EE75}
-		{BCC2ED87-11A4-4BFE-8A77-9B26622A734E} = {9984F8F3-9127-4B5E-89F6-CE870981EE75}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {BA355042-CE5B-466B-ADD6-6A10D3B5BA89}
