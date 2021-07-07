@@ -6722,11 +6722,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\27787\\Downloads\\TweetSimulation\\TweetSimtest\\TweetSimulationTest.csproj",
+      "projectUniqueName": "C:\\Users\\27787\\Downloads\\FromGit\\AGTweetSimulation\\TweetSimtest\\TweetSimulationTest.csproj",
       "projectName": "TweetSimulationTest",
-      "projectPath": "C:\\Users\\27787\\Downloads\\TweetSimulation\\TweetSimtest\\TweetSimulationTest.csproj",
+      "projectPath": "C:\\Users\\27787\\Downloads\\FromGit\\AGTweetSimulation\\TweetSimtest\\TweetSimulationTest.csproj",
       "packagesPath": "C:\\Users\\27787\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\27787\\Downloads\\TweetSimulation\\TweetSimtest\\obj\\",
+      "outputPath": "C:\\Users\\27787\\Downloads\\FromGit\\AGTweetSimulation\\TweetSimtest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\27787\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6743,8 +6743,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\27787\\Downloads\\TweetSimulation\\TweetSimulation\\TweetSimulation.csproj": {
-              "projectPath": "C:\\Users\\27787\\Downloads\\TweetSimulation\\TweetSimulation\\TweetSimulation.csproj"
+            "C:\\Users\\27787\\Downloads\\FromGit\\AGTweetSimulation\\TweetSimulation\\TweetSimulation.csproj": {
+              "projectPath": "C:\\Users\\27787\\Downloads\\FromGit\\AGTweetSimulation\\TweetSimulation\\TweetSimulation.csproj"
             }
           }
         }
